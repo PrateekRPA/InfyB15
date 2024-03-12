@@ -1,7 +1,7 @@
 {
   "name": "REF Demo B15",
   "projectId": "0b7326c4-5d83-45b3-aeab-01dfe09eb8f5",
-  "description": "Blank Process Dev 2",
+  "description": "Blank Process Dev 3",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.2-preview]",
