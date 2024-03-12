@@ -100,6 +100,6 @@
         <InArgument x:TypeArguments="x:String">[testString.trim.ToUpper]</InArgument>
       </Assign.Value>
     </Assign>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="433.6,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="[UiPath.Core.Activities.LogLevel.Error]" Message="[&quot;Finaln String is: &quot;+testString]" />
+    <ui:LogMessage DisplayName="Log " sap:VirtualizedContainerService.HintSize="433.6,165.6" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="[UiPath.Core.Activities.LogLevel.Error]" Message="[&quot;Finaln String is: &quot;+testString]" />
   </Sequence>
 </Activity>
